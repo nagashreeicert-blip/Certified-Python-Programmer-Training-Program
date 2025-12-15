@@ -1,4 +1,4 @@
-# 🐍 Certified Python Programmer Training Program
+#  Certified Python Programmer Training Program
 
 **Classroom Training & Live Online Courses**  
 Build systems—not scripts. Earn the core Python credential that unlocks high-impact roles in **AI/ML, Data Science, Automation, and DevOps**.
